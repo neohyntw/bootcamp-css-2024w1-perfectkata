@@ -51,6 +51,11 @@ body{
     width: 640px;
     margin: 0 auto;
 }
+
+img{
+    vertical-align: middle;
+}
+
 .news{
     display: inline-block;width: auto;
 }
